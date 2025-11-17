@@ -1,5 +1,5 @@
-num1 = int(input())
-num2 = int(input())
+num1 = float(input())
+num2 = float(input())
 oper = input()
 
 if oper == '+':
